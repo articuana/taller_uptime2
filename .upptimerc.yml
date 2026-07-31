@@ -2,6 +2,9 @@
 owner: upptime # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+permissions:
+  contents: write   # Permite hacer git push al repositorio
+
 sites:
   - name: Google
     url: https://www.google.com
